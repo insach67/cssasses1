@@ -1,0 +1,40 @@
+.head1{
+    color: red;
+}
+.head2{
+    color: rgb(250, 54, 54);
+    font-size: 20px;
+}
+.list{
+    color: brown;
+    font-weight: 600;
+    line-height: 35px;
+}
+.head3{
+    color: rgb(223, 58, 58);
+}
+.list1{
+    color: brown;
+    letter-spacing: 5px;
+    line-height: 20px;
+    font-weight: 550;
+}
+.p1{
+    color: brown;
+   font-weight: 450;
+   
+}
+.p2{
+    color: brown;
+    line-height: 40px;
+    font-weight: 450;
+}
+.p3{
+    color: brown;
+    line-height: 40px;
+    font-weight: 450;
+}
+.p4{
+
+    text-decoration: solid;
+}
